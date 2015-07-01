@@ -17,4 +17,4 @@ wget --no-check-certificate https://bitbucket.org/pypa/setuptools/raw/bootstrap/
 wget --no-check-certificate https://raw.github.com/pypa/pip/master/contrib/get-pip.py && python get-pip.py
 pip install importlib
 pip install softlayer
-
+pip install requests==2.5.3
